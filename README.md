@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Competitive Programming!
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 How to reach me:- https://www.linkedin.com/in/sahil-kumar-a56ba9190/
-            Mail :- its.sahilkumar@gmail.com
+            Mail :- its.sahilkr@gmail.com
 
 <!---
 shahilsah/shahilsah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
