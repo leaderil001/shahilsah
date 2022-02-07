@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahilsah
+- 👋 Hi, I’m @Sahil Kumar
 - 👀 I’m interested in Coding & Web Development!
 - 🌱 I’m currently learning Competitive Programming!
 - 💞️ I’m looking to collaborate on Projects.
